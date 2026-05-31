@@ -1,0 +1,7 @@
+Resumen del torneo
+==================
+
+Cantidad de partidos analizados: 4
+Total de goles convertidos: 11
+Promedio de goles por partido: 2.75
+Equipo puntero: Aguilas
